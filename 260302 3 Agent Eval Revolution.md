@@ -16,4 +16,4 @@ Tool use: effectiveness in picking the right tool, passing parameters, handling 
 Memory and context: accurate retrieval of past information and handling of long-range context.
 
 ### Conclusion
-evaluating individual agents in a multi-agent system can be misleading if the overall system goal isn't considered.
+evaluating individual agents in a multi-agent system can be misleading if the overall system goal isn't considered. 
