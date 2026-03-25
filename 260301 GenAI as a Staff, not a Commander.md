@@ -32,4 +32,4 @@ Commanders often face dilemmas where there is no "mathematically correct" answer
 When utilized as a Staff asset, AI’s capabilities are unmatched:
 * **Information Synthesis:** Summarizing thousands of pages of intel or market data in seconds.
 * **Creative Problem Solving:** Generating diverse "what-if" scenarios that humans might overlook.
-* **24/7 Availability:** Monitoring real-time data and providing briefings without fatigue.
+* **24/7 Availability:** Monitoring real-time data and providing briefings without fatigue. 
